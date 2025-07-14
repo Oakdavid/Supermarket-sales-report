@@ -40,7 +40,8 @@ Pivot Charts
 Conclusion
 This project demonstrates a real-world workflow for an entry-level data analyst using Excel. It covers end-to-end analysis from raw data to automated insights, laying a strong foundation for future reporting and dashboarding using tools like Power BI.
 
-[![Sales Report Screenshot](image/Sales_report_screenshot.png)](image/Sales_report_screenshot.png)
-
+<a href="image/Sales_report_screenshot.png">
+  <img src="image/Sales_report_screenshot.png" alt="Sales Report Screenshot" width="600"/>
+</a>
 
 
